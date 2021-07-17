@@ -1,0 +1,138 @@
+
+.content-l
+    {
+   
+    padding-left: 50px;
+    font-size: 30px; 
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(8, 8, 8); 
+    position: relative;
+    bottom: 360px;
+	text-align: center;
+    
+    }
+	.navbar{
+    
+		position: relative;
+		float: right;
+		right: 300px;
+		top: -740px;
+	}
+	.link-a{
+		text-decoration: none;
+		word-spacing: 3px;
+		padding-left: 6px;
+		padding-right: 6px;
+		font-size: 22px;
+		color: black;
+	}
+	
+	.navbar li ul li
+	{
+		display:block;
+	}
+		.navbar li{
+			position:relative;
+			list-style: none;
+			display: inline;
+			}
+			
+			.im
+			{
+				top: -25px ;
+			}
+			.link-a:hover
+			{
+				text-decoration: underline;
+				color: black;
+			}
+			.about
+			{
+				padding-left: 15%;
+				padding-right: 15%;
+			}
+			.foto1{
+				
+				opacity: 0.5;
+			}
+			.foto2{
+				
+				left: -165px;
+				position: relative;
+				bottom: -103px;
+			}
+			.me{
+				position: relative;
+				float: right;
+				right: 500px;
+				bottom: 300px;
+			}
+			.row1
+			{
+				bottom: 370px;
+				position: relative;
+				padding-right: 22%;
+				padding-left: 22%;
+			}
+			.p-l
+			{
+				color: gray;
+			}
+			hr
+			{
+				color: black;
+			}
+			.freelancer
+			{
+				position: relative;
+				bottom: 360px;
+				text-align: center;
+				color: white;
+			
+			}
+			.hire
+			{
+				padding: 10px;
+				color: black;
+				background-color: white;
+				border: white;
+			}
+			
+			.bg-color
+			{
+			
+				color: white;
+				font-weight: bold;
+
+			}
+			footer
+			{
+				background-color: black;
+				padding: 45px;
+			}
+			.contact
+			{
+				position: relative;
+				text-align: center;
+			}
+		.p-1
+		{
+			word-spacing: 3px;
+		}
+		.contact-i
+		{
+			border-bottom: 1px solid;
+			border-top: none;
+			border-left: none;
+			border-right: none;
+			width: 780px;
+			text-align: center;
+		}
+		.contact2
+		{
+			padding: 45px;
+		}
+		.hire-1
+		{
+			padding: 18px;
+		}
